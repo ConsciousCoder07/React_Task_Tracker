@@ -1,0 +1,22 @@
+{
+  "tasks": [
+    {
+      "id": "1",
+      "text": "Doctors Appointment",
+      "day": "Jun 5 at 12:16pm",
+      "reminder": "true"
+    },
+    {
+      "id": "2",
+      "text": "Dhur Prayer",
+      "day": "Jun 5 at 1:15pm",
+      "reminder": true
+    },
+    {
+      "text": "Exam ",
+      "day": "Wednesday",
+      "reminder": true,
+      "id": "EQ29OTV"
+    }
+  ]
+}
